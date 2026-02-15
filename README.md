@@ -1,2 +1,0 @@
-# aonoiz
-HELLO-WORLD
